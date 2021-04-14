@@ -1,0 +1,47 @@
+.menu {
+    position: fixed;
+    background: blue;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+body {
+    background-color: dodgerblue;
+    text-align: center;
+}
+.line {
+      background-color:crimson;
+     text-align: center;
+}
+a {
+    text-decoration: none;
+    color: crimson;
+    text-shadow: 2px 2px gainsboro;
+}
+.links {
+    display: inline;
+    padding-left: 33px;
+   padding -right: 25px;
+     display: inline;
+    font-size: 20px
+}
+#contact iframe{
+    width: 100%;
+}
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a{
+    color: aqua;
+    text-shadow: none;
+}
+#writings a {
+    text-shadow: none;
+    text-decoration: underline;
+    color: aqua;
+}
+.links:hover {
+    font-size: 25px;
+     text-decoration: underline;
+}
